@@ -4,5 +4,5 @@ BBC News Classifcation:
 * Jupyter notebook: https://github.com/squpen/unsupervisedML/blob/main/week4.ipynb
 
 FP:
-* Data source:
-* Jupyter notebook: 
+* Data source: https://www.kaggle.com/competitions/k-means-clustering-for-heart-disease-analysis/data
+* Jupyter notebook: https://github.com/squpen/unsupervisedML/blob/main/UnsupFinal.ipynb
